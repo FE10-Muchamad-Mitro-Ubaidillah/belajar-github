@@ -1,2 +1,2 @@
 # belajar-github
-Memahami Githublebih dalam
+Memahami Github lebih dalam
